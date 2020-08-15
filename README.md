@@ -25,5 +25,6 @@ Now you can run the merger script using `python Merger.py`. It will take a while
 
 ### Contributors
 Mehrdad Mokhtari; 
-Mladen Rakovic
+Mladen Rakovic;
+Oliver Schulte
 
