@@ -20,3 +20,10 @@ If you have added any new file names to the `xml_files` list in parser you will 
  
 Now you can run the merger script using `python Merger.py`. It will take a while and eventually the result files will be ready in `tagged` directory. The files will be named `result.train`, `result.valid`, and `result.test`. You may take these files and directly feed them to any NER model. 
 
+### Results
+https://raw.githubusercontent.com/Mehrdad93/Machine-Reading/master/results/DatasetStats.png
+
+### Contributors
+Mehrdad Mokhtari; 
+Mladen Rakovic
+
