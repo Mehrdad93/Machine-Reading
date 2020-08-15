@@ -17,3 +17,5 @@
 8- Religion
 
 9- Race
+
+<img src="images/DatasetStats.png">
