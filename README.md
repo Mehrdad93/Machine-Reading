@@ -24,7 +24,7 @@ Now you can run the merger script using `python Merger.py`. It will take a while
 <img src="https://raw.githubusercontent.com/Mehrdad93/Machine-Reading/master/results/DatasetStats.png">
 
 ### Contributors
-Mehrdad Mokhtari; 
-Mladen Rakovic;
-Oliver Schulte
+> Mehrdad Mokhtari; 
+> Mladen Rakovic;
+> Oliver Schulte
 
