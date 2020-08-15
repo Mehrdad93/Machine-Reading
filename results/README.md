@@ -18,4 +18,4 @@
 
 9- Race
 
-<img src="images/DatasetStats.png">
+<img src="results/DatasetStats.png">
